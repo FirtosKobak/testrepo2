@@ -3,3 +3,5 @@ https://www.howtogeek.com/199687/how-to-quickly-create-a-text-file-using-the-com
 
 Git add - Fájl
 Git add . - az összes fájlt hozzáadja a folderból
+
+És megint módosítom
