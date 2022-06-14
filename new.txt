@@ -5,3 +5,8 @@ Git add - Fájl
 Git add . - az összes fájlt hozzáadja a folderból
 
 És megint módosítom
+
+
+Git push utan ismét módosítom 
+
+Mary
